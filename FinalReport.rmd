@@ -1,7 +1,7 @@
 ---
 title: "GSS challange Less Data"
-author: "Put your name here!"
-date: "put the date here"
+author: "Sarah Medina"
+date: "10/04/2022"
 output: html_document
 ---
 
@@ -31,6 +31,7 @@ If not, then whose view differs from whom??
 
 # Methods
 
+In this variable analysis we will be using grahical, numerical, and inferential results to determine if race and attitudes towards capital punishment are dependent or independent form on another.
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
 # Results

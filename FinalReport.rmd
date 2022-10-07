@@ -20,6 +20,8 @@ GSS <-read.dta(file="GSS2016.dta")
 GSS <- droplevels(GSS)
 mydata <- select(GSS,sex,race,cappun,degree,relig,gunlaw,tvhours,owngun,age,wordsum)
 mydata <- na.omit(mydata)
+source("fisherXY.R")
+
 ```
 
 # Introduction
@@ -92,5 +94,7 @@ When we ran the fisher xy test with less data it indicated that the only statist
 
 
 # Discussion and Conclusion
+
+When we ran the fisher xy test in the second branch that had less data than the master branch the p values found only a difference between the Black and White people. This demonstrates that more data is better because the master branch that had more data found a statistically difference between all the races. With less data only a statistical difference between the black and White people appears.
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->

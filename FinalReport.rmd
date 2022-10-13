@@ -71,7 +71,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+The numerical results show that 68 percent of white people are in favor of capital punishment. 32 percent of white people are opposed to capital punishment. 47 percent of black people are in favor of capital punishment and 53 percent off black people are opposed to capital punishment.Lastly, for other races 61 percent are in favor and 39 percent are against capital punishment.
 
 
 ## Inferential Results

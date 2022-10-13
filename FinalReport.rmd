@@ -51,6 +51,7 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 ```
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+The bar chart shows that a little over 400 of the white people are in favor of capital punishment and that about 200 of the white people are in opposition of capital punishment. Furthermore, for the black people the bar chart shows that about the same number are in favor of capital punishment as those who are opposed to it. About 50 of the black people are in favor and about 60 are opposed. Lastly, for other races the bar chart demonstrates that about 50 are in favor of capital punishment amd about 30 are agianst capital punishment.
 
 
 
